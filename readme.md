@@ -20,24 +20,6 @@ The application allows users to enter text, listen to generated speech, adjust s
 
 ---
 
-# 📸 Screenshots
-
-## Main Application Window
-
-Place your screenshot in the following folder:
-
-```text
-<img width="643" height="512" alt="image" src="https://github.com/user-attachments/assets/4952534b-b6f6-4c19-a4d7-07f6a3397798" />
-
-```
-
-Then add your screenshot below:
-
-![Application Screenshot](<img width="643" height="512" alt="image" src="https://github.com/user-attachments/assets/4952534b-b6f6-4c19-a4d7-07f6a3397798" />
-)
-
----
-
 # 🛠️ Technologies Used
 
 | Technology | Purpose                       |
