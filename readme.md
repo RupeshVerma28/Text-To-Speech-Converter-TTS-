@@ -237,7 +237,7 @@ Rupesh Verma
 MERN Stack Learner | Cybersecurity Enthusiast
 
 GitHub:
-[https://github.com/yourusername](https://github.com/RupeshVerma28)
+[Rupesh Verma](https://github.com/RupeshVerma28)
 
 ---
 
