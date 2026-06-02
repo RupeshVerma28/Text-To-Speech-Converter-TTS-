@@ -155,23 +155,6 @@ Choose a location and save the generated audio file.
 
 ---
 
-# 📂 Project Structure
-
-```text
-offline-male-tts/
-│
-├── main.py
-├── README.md
-├── requirements.txt
-│
-├── screenshots/
-│   └── main-window.png
-│
-└── assets/
-```
-
----
-
 # 🎤 Voice Information
 
 The application uses the voices available on your operating system through pyttsx3.
