@@ -33,7 +33,8 @@ Place your screenshot in the following folder:
 
 Then add your screenshot below:
 
-![Application Screenshot](screenshots/main-window.png)
+![Application Screenshot](<img width="643" height="512" alt="image" src="https://github.com/user-attachments/assets/4952534b-b6f6-4c19-a4d7-07f6a3397798" />
+)
 
 ---
 
