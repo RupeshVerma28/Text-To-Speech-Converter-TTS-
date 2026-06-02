@@ -234,10 +234,10 @@ This project is licensed under the MIT License.
 
 Rupesh Verma
 
-Frontend Developer | Python Learner | Tech Enthusiast
+MERN Stack Learner | Cybersecurity Enthusiast
 
 GitHub:
-https://github.com/yourusername
+[https://github.com/yourusername](https://github.com/RupeshVerma28)
 
 ---
 
